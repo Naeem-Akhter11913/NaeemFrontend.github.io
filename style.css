@@ -1,0 +1,11 @@
+h1{
+    text-decoration-line: underline;
+}
+.border{
+    border: 2px solid black;
+}
+
+img{
+    height: 762px;
+    width: 1051px;
+}
